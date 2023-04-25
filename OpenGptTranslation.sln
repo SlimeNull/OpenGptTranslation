@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibOpenGptTranslation", "OpenGptTranslation\LibOpenGptTranslation.csproj", "{4723490F-B36F-4144-9B8B-DA050824460B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenBarbecueGrill", "OpenBarbecueGrill\OpenBarbecueGrill.csproj", "{C4592922-2C91-4557-BC65-12FD47B73ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4723490F-B36F-4144-9B8B-DA050824460B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4723490F-B36F-4144-9B8B-DA050824460B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4723490F-B36F-4144-9B8B-DA050824460B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4723490F-B36F-4144-9B8B-DA050824460B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4723490F-B36F-4144-9B8B-DA050824460B}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{4723490F-B36F-4144-9B8B-DA050824460B}.Test|Any CPU.Build.0 = Release|Any CPU
+		{C4592922-2C91-4557-BC65-12FD47B73ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4592922-2C91-4557-BC65-12FD47B73ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4592922-2C91-4557-BC65-12FD47B73ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4592922-2C91-4557-BC65-12FD47B73ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4592922-2C91-4557-BC65-12FD47B73ED0}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{C4592922-2C91-4557-BC65-12FD47B73ED0}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9FF8F8-6F10-4925-B54C-E3F104437C89}
+	EndGlobalSection
+EndGlobal

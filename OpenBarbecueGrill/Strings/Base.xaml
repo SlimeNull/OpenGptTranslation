@@ -1,0 +1,34 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    <s:String x:Key="StrSubmit">提交</s:String>
+
+    <s:String x:Key="StrFile">文件</s:String>
+    <s:String x:Key="StrOpen">打开</s:String>
+    <s:String x:Key="StrSave">保存</s:String>
+    <s:String x:Key="StrSaveAs">另存为</s:String>
+    <s:String x:Key="StrImport">导入</s:String>
+    <s:String x:Key="StrExport">导出</s:String>
+
+    <s:String x:Key="StrTranslate">翻译</s:String>
+
+    <s:String x:Key="StrOK">确定</s:String>
+    <s:String x:Key="StrCancel">取消</s:String>
+    <s:String x:Key="StrConfiguration">配置</s:String>
+    <s:String x:Key="StrNouns">名词</s:String>
+
+    <s:String x:Key="StrAdd">添加</s:String>
+    <s:String x:Key="StrRemove">删除</s:String>
+    <s:String x:Key="StrClear">清除</s:String>
+
+    <s:String x:Key="StrAPIKey">API 密钥</s:String>
+    <s:String x:Key="StrTranslationLanguage">翻译语言</s:String>
+
+    <s:String x:Key="StrAPIKeyPlaceholder">API 密钥以 sk 开头, 可以在 platform.openai.com 获取</s:String>
+    <s:String x:Key="StrTranslationLanguagePlaceholder">翻译语言是使用 GPT 进行翻译时的目标语言</s:String>
+
+    <s:String x:Key="StrAutoGetNouns">自动获取名词</s:String>
+    <s:String x:Key="StrAutoGetNounsTooltip">是否在翻译时从文本中提取名词</s:String>
+
+    <s:String x:Key="IsLanguageResource">zh-CN</s:String>
+</ResourceDictionary>
